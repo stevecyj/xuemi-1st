@@ -1,0 +1,30 @@
+* {
+  outline: 1px solid #ccc;
+}
+
+body {
+  margin: 0;
+}
+
+.gallery-container {
+  width: 980px;
+  height: 367.5px;
+  margin: 0 auto;
+}
+
+.gallery-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.photo {
+  width: 490px;
+  height: 367.5px;
+  background-color: aqua;
+}
+
+.article {
+  width: 490px;
+  height: 367.5px;
+  background-color: burlywood;
+}
