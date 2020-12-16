@@ -28,3 +28,8 @@ body {
   height: 367.5px;
   background-color: burlywood;
 }
+
+.photo {
+  background-image: url("/images/atikh-bana-_KaMTEmJnxY-unsplash.jpg");
+  background-size: cover;
+}
